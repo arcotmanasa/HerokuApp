@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="14.443">
+    <testcase classname="Add remove elements and count" name="Add remove elements and count" time="14.212">
+        <system-out><![CDATA[Given a page path "https://the-internet.herokuapp.com/add_remove_elements/".passed
+When click on AddElement button add 10 buttons..............................passed
+Then count and validate number of elements should be 10.....................passed
+And close the browser.......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
